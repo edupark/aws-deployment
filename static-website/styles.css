@@ -1,0 +1,22 @@
+.nav-link {
+  margin: 0 18px;
+}
+
+section.home {
+  background: #469393;
+  background: linear-gradient(315deg, #469393, #5F8652);
+}
+
+.feature-icon-small {
+  width: 3rem;
+  height: 3rem;
+}
+
+img {
+  object-fit: cover;
+}
+
+.bg-grey-gradient {
+  background: linear-gradient(-180deg, #BCC5CE 0%, #929EAD 98%), radial-gradient(at top left, rgba(255,255,255,0.30) 0%, rgba(0,0,0,0.30) 100%);
+  background-blend-mode: screen;
+}
